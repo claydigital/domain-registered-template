@@ -1,0 +1,91 @@
+﻿/* Place Your Custom Styles Here */
+
+.btn-primary {
+    color: #fff;
+    background-color: #ffbc01;
+    border-color: #ffbc01;
+    box-shadow: none;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #ecae03;
+    border-color: #ecae03;
+}
+
+body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(7,23,39,1) 0%, rgba(18,51,86,1) 100%);
+}
+
+.clay-title {
+    color: #ffffff !important;
+    font-family: 'Libre Baskerville', serif;
+    font-weight: 300 !important;
+    letter-spacing: 1px;
+    font-size: 56px;
+}
+
+.clay-subtitle {
+    color: #ffffff !important;
+    font-family: 'Nunito Sans', sans-serif;
+    font-size: 23px;
+    margin-bottom: 70px;
+}
+
+.btn-primary {
+    color: #fff;
+    background-color: #36BDF6;
+    border-color: #36BDF6;
+    box-shadow: none;
+    font-size: 14px;
+}
+
+.btn-primary:hover {
+    color: #ffffff;
+    background-color: #205F88;
+    border-color: #205F88;
+    box-shadow: none;
+    font-size: 14px;
+}
+
+.btn-soft-secondary {
+    color: #ffffff;
+    background: transparent;
+    border-color: transparent;
+    font-size: 14px;
+}
+
+.btn-soft-secondary:hover {
+    color: #f7f7f7;
+    background: transparent;
+    border-color: transparent;
+    font-size: 14px;
+}
+
+.clay-footer {
+    color: #f7f7f7;
+}
+
+.clay-link {
+    color: #36BDF6;
+}
+
+.clay-link:hover {
+    color: #205F88;
+}
+
+p {
+    font-family: 'Nunito Sans', sans-serif;
+}
+
+h1, h2, h3, h4, h5 {
+    font-family: 'Libre Baskerville', serif;
+}
+
+
+
+/*
+font-family: 'Libre Baskerville', serif;
+font-family: 'Nunito Sans', sans-serif;
+*/
